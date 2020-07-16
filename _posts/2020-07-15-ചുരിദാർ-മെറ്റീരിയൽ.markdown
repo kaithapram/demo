@@ -1,0 +1,28 @@
+---
+layout: post
+title:  >
+    ചുരിദാർ മെറ്റീരിയൽ
+date:   2020-07-15 08:13:54 +0000
+---
+
+
+<span class="text-info">Price : 1500</span>  
+
+<!-- more -->  
+
+<!-- ![header](https://drive.google.com/uc?id=11Da8fgCaK2JUKfpfV31yfLNYLnf4IIr0) -->  
+
+<a href="https://paytm.me/pX-I8iZ" class="btn btn-primary">Buy Now</a>  
+## ഉൽപ്പന്നത്തിന്റെ പ്രത്യേകതകൾ. 
+* കോട്ടൻ എംബ്രോയുടെഡ്  
+* ഗുഡ് ക്വലിറ്റി 
+* ലോ പ്രൈസ്
+* കളർ ഗ്യാറന്റി 
+* ഫിനിഷിങ് 
+## Return Policy
+* 10 ദിവസത്തെ റിടെണ് ലഭ്യമാണ്
+## ഡെലിവറി മെത്തേഡ്
+* ഇന്ത്യൻ പോസ്റ്റ് ഓഫീസ്  
+
+
+<a class='btn btn-success rounded text-white' href='https://api.whatsapp.com/send?text=Please Send Details of {{site.url}}{{page.url}}&phone=918330828455'><i class='fab fa-whatsapp fa-spin'></i> വാട്‌സ് അപ് ചെയൂ </a>
